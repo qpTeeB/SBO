@@ -9,8 +9,9 @@ internal class Program
 	Method1
 	{
 		
-		
-		
+		ааааааааааааааа
+		ваыва
+		ываыва
 		
 	}
 	Method2
