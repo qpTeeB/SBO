@@ -2,6 +2,9 @@ using System;
 
 internal class Program
 {
+	
+	field
+	field
 	Method1
 	{
 		
