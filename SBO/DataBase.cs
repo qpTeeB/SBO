@@ -52,6 +52,25 @@ namespace SBO
             //aaaaaaaaaaaaaaaa
             //aaaaaaaaaaaaaaaa
         }
-
+        public Method2()
+        {
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+            //aaaaaaaaaaaaaaaa
+        }
     }
 }
